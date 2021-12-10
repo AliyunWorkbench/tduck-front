@@ -1,0 +1,10 @@
+dist/
+node_modules/
+babel.config.js
+vue.config.js
+.eslintrc.js
+src/components/echarts/china.js
+src/components/render/
+src/components/verifition/
+src/components/tinymce/
+src/views/form/editor/RightPanel.vue
